@@ -1,0 +1,2 @@
+/* Desktop: fill the whole screen like on mobile (no white side gutters) */
+[data-showcase-root]{max-width:none!important;width:100%!important;border:0!important}
